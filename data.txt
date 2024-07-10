@@ -1,0 +1,29 @@
+1745-2007, ARCHITECTURAL ENGINEERING AND DESIGN MANAGEMENT,A1,https://www.tandfonline.com/toc/taem20/current
+1752-7589,	ARCHITECTURAL ENGINEERING AND DESIGN MANAGEMENT,A1,https://www.tandfonline.com/toc/taem20/current
+2178-1974,	DESIGN E TECNOLOGIA,A1,https://www.ufrgs.br/det/index.php/det/index
+0142-694X,	DESIGN STUDIES,	A1,https://www.sciencedirect.com/journal/design-studies
+0104-4249,	ESTUDOS EM DESIGN (IMPRESSO),	A1,https://estudosemdesign.emnuvens.com.br/design
+1983-196X,	ESTUDOS EM DESIGN (ONLINE),	A1,https://estudosemdesign.emnuvens.com.br/design
+0954-4828,	JOURNAL OF ENGINEERING DESIGN (PRINT),	A1,https://www.tandfonline.com/toc/cjen20/current
+1808-5377,	INFODESIGN (SBDI. ONLINE),	A2,https://infodesign.org.br/infodesign
+0957-7572,	INTERNATIONAL JOURNAL OF TECHNOLOGY AND DESIGN EDUCATION,	A2,https://link.springer.com/journal/10798
+1955-2505,	INTERNATIONAL JOURNAL ON INTERACTIVE DESIGN AND MANUFACTURING,	A2,https://link.springer.com/journal/12008
+1984-2988,	STRATEGIC DESIGN RESEARCH JOURNAL,	A2,https://revistas.unisinos.br/index.php/sdrj/index
+1833-1874,	DESIGN PRINCIPLES AND PRACTICES,	A3,https://designprinciplesandpractices.com/
+1357-4809,	JOURNAL OF URBAN DESIGN (ABINGDON),	A3, https://portal.issn.org/resource/ISSN/1357-4809
+1460-6925,	THE DESIGN JOURNAL,	A3, https://www.tandfonline.com/journals/rfdj20
+1357-5317,	URBAN DESIGN INTERNATIONAL (LONDON. PRINT),	A3,https://www.palgrave.com/gp/journal/41289
+1468-4519,	URBAN DESIGN INTERNATIONAL (ONLINE),	A3,https://www.palgrave.com/gp/journal/41289
+2281-7603,	AIS/DESIGN JOURNAL,	A4,https://www.aisdesign.org/ser/index.php/SeR
+2526-1789,	DATJOURNAL DESIGN ART AND TECHNOLOGY,	A4,https://datjournal.anhembi.br/dat
+1569-1551,	JOURNAL OF DESIGN RESEARCH (ONLINE),	A4,https://www.inderscience.com/jhome.php?jcode=JDR
+1984-5596,	ARCOS DESIGN (ONLINE),	B1,https://www.e-publicacoes.uerj.br/arcosdesign
+1686-4360,	COMPUTER-AIDED DESIGN AND APPLICATIONS,	B1,https://www.cad-journal.net/
+2526-6519,	CONTEMPORÂNEA: REVISTA UNITOLEDO: ARQUITETURA COMUNICAÇÃO DESIGN E EDUCAÇÃO,	B1,https://portal.issn.org/resource/ISSN/2526-6519
+1754-7075,	DESIGN AND CULTURE (PRINT),	B1,https://www.tandfonline.com/journals/rfdc20
+0952-4649,	JOURNAL OF DESIGN HISTORY,	B1,https://academic.oup.com/jdh
+2040-8633,	DESIGN & TECHNOLOGY EDUCATION,	B2,https://openjournals.ljmu.ac.uk/index.php/DATE/index
+2317-8876,	ERGODESIGN & HCI,	B2,https://periodicos.puc-rio.br/index.php/revistaergodesign-hci
+0142-5471,	INFORMATION DESIGN JOURNAL,	B2,https://benjamins.com/catalog/idj
+2325-162X,	THE INTERNATIONAL JOURNAL OF DESIGN MANAGEMENT AND PROFESSIONAL PRACTICE (IMPRESSO),	B2,https://www.cgscholar.com/bookstore/cgrn/200/205
+2473-5132,	DESIGN FOR HEALTH,	Cs,https://www.designsforhealth.com/
