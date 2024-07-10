@@ -7,12 +7,13 @@ body {
 }
 
 .container {
-    max-width: 1500px;
+    max-width: 100%;
     margin: 50px auto;
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
+    overflow-x: auto; /* Adiciona uma barra de rolagem horizontal se necessário */
 }
 
 h1 {
@@ -21,11 +22,12 @@ h1 {
 }
 
 input[type="text"] {
-    width: 98.5%;
+    width: 100%;
     padding: 10px;
     margin-bottom: 20px;
     border: 1px solid #ddd;
     border-radius: 4px;
+    box-sizing: border-box; /* Garante que o padding não aumente o tamanho total */
 }
 
 .tabs {
@@ -58,26 +60,40 @@ input[type="text"] {
 table {
     width: 100%;
     border-collapse: collapse;
-}
-
-table, th, td {
-    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    table-layout: fixed; /* Define o layout da tabela como fixo para evitar a expansão automática */
 }
 
 th, td {
+    border: 1px solid #ddd;
     padding: 10px;
     text-align: left;
+    white-space: nowrap; /* Impede que o texto quebre para uma nova linha */
+    overflow: hidden; /* Esconde qualquer conteúdo que extrapole o limite da célula */
+    text-overflow: ellipsis; /* Adiciona reticências (...) para indicar que o texto foi truncado */
 }
 
 th {
     background-color: #ff6600;
     color: #fff;
 }
-td:first-child {  
-    padding: 12px; 
-    white-space: nowrap; 
-}
-td:nth-child(2){ 
-    padding: 12px; 
-    white-space: nowrap; 
+
+/* Estilos para telas menores (celulares) */
+@media screen and (max-width: 600px) {
+    .container {
+        padding: 10px;
+        overflow-x: auto; /* Adiciona barra de rolagem horizontal para a .container em telas menores */
+    }
+
+    .tab-button {
+        padding: 8px 16px;
+    }
+
+    table {
+        font-size: 14px;
+    }
+
+    td, th {
+        padding: 8px;
+    }
 }
