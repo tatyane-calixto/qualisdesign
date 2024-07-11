@@ -1,9 +1,15 @@
+@font-face {
+    font-family: "Laila";
+    src: url("/fontes/Laila-Regular.ttf");
+}
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     color: #333;
     margin: 0;
     padding: 0;
+    font-family: Laila;
 }
 
 .container {
@@ -19,6 +25,7 @@ body {
 h1 {
     text-align: center;
     color: #ff6600;
+    font-family: Laila;
 }
 
 input[type="text"] {
@@ -62,6 +69,7 @@ table {
     border-collapse: collapse;
     margin-bottom: 20px;
     table-layout: fixed; /* Define o layout da tabela como fixo para evitar a expansão automática */
+    font-size: 18px;
 }
 
 th, td {
@@ -70,12 +78,19 @@ th, td {
     text-align: left;
     overflow: hidden; /* Esconde qualquer conteúdo que extrapole o limite da célula */
     text-overflow: ellipsis; /* Adiciona reticências (...) para indicar que o texto foi truncado */
+    
 }
 
 th {
     background-color: #ff6600;
     color: #fff;
+    font-family: Laila;
 }
+th:first-child, td:first-child,
+th:nth-child(3), td:nth-child(3) {
+    width: 100px; /* Ajuste o valor conforme necessário */
+}
+
 
 /* Estilos para telas menores (celulares) */
 @media screen and (max-width: 600px) {
