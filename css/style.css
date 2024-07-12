@@ -86,11 +86,16 @@ th {
     background-color: #ff6600;
     color: #fff;
     font-family: Laila;
+  
 }
 th:first-child, td:first-child,
 th:nth-child(3), td:nth-child(3) {
     width: 100px; 
+    text-align: center;
 }
+
+
+
 
 
 @media screen and (max-width: 600px) {
