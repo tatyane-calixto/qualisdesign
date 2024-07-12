@@ -34,7 +34,8 @@ input[type="text"] {
     margin-bottom: 20px;
     border: 1px solid #ddd;
     border-radius: 4px;
-    box-sizing: border-box; /* Garante que o padding não aumente o tamanho total */
+    box-sizing: border-box; 
+    font-size: 16px;
 }
 
 .tabs {
@@ -68,7 +69,7 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 20px;
-    table-layout: fixed; /* Define o layout da tabela como fixo para evitar a expansão automática */
+    table-layout: fixed; 
     font-size: 18px;
 }
 
@@ -76,8 +77,8 @@ th, td {
     border: 1px solid #ddd;
     padding: 10px;
     text-align: left;
-    overflow: hidden; /* Esconde qualquer conteúdo que extrapole o limite da célula */
-    text-overflow: ellipsis; /* Adiciona reticências (...) para indicar que o texto foi truncado */
+    overflow: hidden; 
+    text-overflow: ellipsis;
     
 }
 
@@ -88,15 +89,14 @@ th {
 }
 th:first-child, td:first-child,
 th:nth-child(3), td:nth-child(3) {
-    width: 100px; /* Ajuste o valor conforme necessário */
+    width: 100px; 
 }
 
 
-/* Estilos para telas menores (celulares) */
 @media screen and (max-width: 600px) {
     .container {
         padding: 10px;
-        overflow-x: auto; /* Adiciona barra de rolagem horizontal para a .container em telas menores */
+        overflow-x: auto; 
     }
 
     .tab-button {
